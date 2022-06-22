@@ -41,4 +41,5 @@ module.exports = {
       },
     ],
   }),
+  pagePatterns: ["**/*.md", "!.vuepress", "!node_modules", "!README.md"],
 };
