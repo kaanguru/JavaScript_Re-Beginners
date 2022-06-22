@@ -1,6 +1,7 @@
 # For Whom this course is for ?
 
 Did you try to self-teach programming from free youtube videos, but you couldn't seem to stick with it? Do you think that something is missing? Then, how about re-learning it step-by-step? Whatever you think you already know can be fast-forwarded with this step-by-step approach.
+<FontIcon icon="js" size="23" color="GoldenRod" />
 
 JavaScript for re-beginners is for young software students,who wants to have a strong background and interested in a complete javascript guide.
 

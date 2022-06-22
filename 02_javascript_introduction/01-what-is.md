@@ -6,7 +6,7 @@ JavaScript is the most-deployed programming language in the history of computers
 
 The programs in this language are called scripts. Scripts do not need any preparation or compilation. They can run directly on some special softwares which are called javascript engines.
 
-## Javascript Engine <FontIcon icon="engine" size="23" />
+## Javascript Engine <FontIcon icon="cogs" size="23" />
 
 Every browser includes a javascript engine.
 
@@ -14,7 +14,7 @@ Every browser includes a javascript engine.
 1. Then it converts the script to the machinelanguage.
 1. Finally, the machine code runs, very fast.
 
-## What makes JavaScript unique?
+## What makes JavaScript unique? <FontIcon icon="fingerprint" size="23" />
 
 * It has Full integration with HTML/CSS
 * Simple, you can learn a few things and then art to build right after.
@@ -40,7 +40,7 @@ Last 10 years, Javascript developers started to use it more than just browser ap
 
 ## What you can build with it?
 
-**Web Applications**: Youtube, Netflix, Spotify, Canva
+**Web Applications**: Youtube , Netflix, Spotify, Canva
 
 **Desktop Applications**: WhatsApp Desktop, Skype, Discord, Visual Studio Code, Slack
 **Servers**: Express js

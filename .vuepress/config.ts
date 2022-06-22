@@ -50,8 +50,8 @@ module.exports = {
     componentsPlugin({
       addThis: "ra-62b31f8f8d71ab4e",
       backToTop: true,
-      components: ["Badge", "CodePen", "FontIcon", "PDF", "StackBlitz", "YouTube"],
-      iconAssets: "iconfont",
+      components: ["Badge", "CodePen", "FontIcon", "YouTube"],
+      iconAssets: "fontawesome",
     }),
     gitPlugin({
       // options
