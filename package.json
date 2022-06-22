@@ -1,7 +1,6 @@
 {
   "name": "javascript-re-beginners-e-book",
   "version": "0.1.0",
-  "main": "index.js",
   "author": "Cem Kaan <kaanguru@mail.ru>",
   "license": "MIT",
   "scripts": {
