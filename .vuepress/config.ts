@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { componentsPlugin } from "vuepress-plugin-components";
+import { gitPlugin } from "@vuepress/plugin-git";
 
 export default defineUserConfig({
   lang: "en-US",
@@ -51,6 +52,10 @@ module.exports = {
       backToTop: true,
       components: ["Badge", "CodePen", "FontIcon", "PDF", "StackBlitz", "YouTube"],
       iconAssets: "iconfont",
+    }),
+    gitPlugin({
+      // options
+      contributors: false,
     }),
   ],
 };
