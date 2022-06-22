@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
+import { searchPlugin } from "@vuepress/plugin-search";
 
 export default defineUserConfig({
   lang: "en-US",
@@ -11,7 +12,7 @@ module.exports = {
     logo: "/img/CK-JS-Re-Beginners.png",
     navbar: [
       // nested group - max depth is 2
-      {
+      /*  {
         text: "Group",
         children: [
           {
@@ -38,8 +39,13 @@ module.exports = {
             activeMatch: "^/foo/",
           },
         ],
-      },
+      }, */
     ],
   }),
   pagePatterns: ["**/*.md", "!.vuepress", "!node_modules", "!README.md"],
+  plugins: [
+    searchPlugin({
+      // options
+    }),
+  ],
 };

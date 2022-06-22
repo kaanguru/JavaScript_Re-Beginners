@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    ".gitignore": true,
+    ".vscode": true,
+    ".vuepress/.*": true,
+    "node_modules": true,
+    "package.json": true,
+    "README.md": true,
+    "yarn.lock": true
+  }
+}

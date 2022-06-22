@@ -1,0 +1,26 @@
+:root {
+  scroll-behavior: smooth;
+  // brand colors
+  --c-brand: #436440;
+  --c-brand-light: #6ea06a;
+
+  // background colors
+  --c-bg: #ffffff;
+  --c-bg-light: #f5f5f5;
+  --c-bg-lighter: #eeeeee;
+  --c-bg-navbar: var(--c-bg);
+  --c-bg-sidebar: var(--c-bg);
+  --c-bg-arrow: #cccccc;
+
+  // text colors
+  --c-text: #313428;
+  --c-text-accent: var(--c-brand);
+  --c-text-light: #53554c;
+  --c-text-lighter: #868a7b;
+  --c-text-lightest: #919c70;
+  --c-text-quote: #999999;
+
+  // border colors
+  --c-border: #e5c810;
+  --c-border-dark: #ac960a;
+}
