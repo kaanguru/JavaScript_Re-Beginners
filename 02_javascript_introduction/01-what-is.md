@@ -1,12 +1,12 @@
 # What is Javascript?
 
-## The programming language of the internet
+## The programming language of the internet <FontIcon icon="wifi" size="23" />
 
 JavaScript is the most-deployed programming language in the history of computers. Because it runs on every web browser. It’s easy to learn and start coding.
 
 The programs in this language are called scripts. Scripts do not need any preparation or compilation. They can run directly on some special softwares which are called javascript engines.
 
-## Javascript Engine
+## Javascript Engine <FontIcon icon="engine" size="23" />
 
 Every browser includes a javascript engine.
 
