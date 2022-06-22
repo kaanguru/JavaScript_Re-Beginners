@@ -5,17 +5,33 @@ heroText: Javascript for Re-Beginners
 tagline: We are starting from scratch
 actions:
   - text: Get Started
-    link: /guide/getting-started.html
+    link: /02_javascript_introduction/01-what-is
     type: primary
   - text: Introduction
-    link: /guide/
+    link: /01_method_introduction/
     type: secondary
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  - title: Back to Basics of Coding
+    details: Grammar, Control flow , Loops, Functions,  Expressions , Numbers  ... EVERYTHING! I am teaching what I have learned in last 20 Years of FULL-STACK experience.  
+  - title: Js is Not A Toy
+    details: JavaScript is now used by an incredible number of high-profile applications, showing that deeper knowledge of this technology is an important skill for any web or mobile developer.
+  - title: Re-Learn ECMAScript
+    details: ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js. 
+  - title: Programming is difficult business
+    details: It should never be undertaken in ignorance. The amazing thing about JavaScript is that it is possible to get work done with it without knowing much about the language, or even knowing much about programming.
+  - title: Learn by Coding
+    details: Videos are not for learning programing you need to code. When you will come across a problem to solve you will not get anxious about it. You will be confident that you will know where to find topic related with new problem.
+  - title: Search in Videos
+    details: I have included a topic corresponding to each video. You will be more confident while building you own solutions, you will be able to search then watch it's video.  JS is a language with enormous expressive power. It is even better when you know what you’re doing. 
 ---
+# Hello World
 
+<CodePen
+user="kaanna"
+slug-hash="MWQMoKZ"
+editable="true"
+preview="true"
+title="Hello World in Javascript"
+:default-tab="['js','result']"
+:theme="$isDarkMode? 'dark': 'light'"
+/>

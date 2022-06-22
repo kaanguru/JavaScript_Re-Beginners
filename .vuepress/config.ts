@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 import { searchPlugin } from "@vuepress/plugin-search";
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default defineUserConfig({
   lang: "en-US",
@@ -44,8 +45,12 @@ module.exports = {
   }),
   pagePatterns: ["**/*.md", "!.vuepress", "!node_modules", "!README.md"],
   plugins: [
-    searchPlugin({
-      // options
+    searchPlugin(),
+    componentsPlugin({
+      addThis: "ra-62b31f8f8d71ab4e",
+      backToTop: true,
+      components: ["Badge", "CodePen", "FontIcon", "PDF", "StackBlitz", "YouTube"],
+      iconAssets: "iconfont",
     }),
   ],
 };
