@@ -23,6 +23,8 @@ features:
     details: Videos are not for learning programing you need to code. When you will come across a problem to solve you will not get anxious about it. You will be confident that you will know where to find topic related with new problem.
   - title: Search in Videos 
     details: I have included a topic corresponding to each Udemy video. You will be more confident while building you own solutions, you will be able to search then watch it's video.  JS is a language with enormous expressive power. It is even better when you know what you’re doing. 
+
+footer: MIT Licensed | Copyright © 2022-present Cem Kaan Kosali
 ---
 # Hello World
 
