@@ -13,35 +13,60 @@ module.exports = {
   theme: defaultTheme({
     logo: "/img/CK-JS-Re-Beginners.png",
     navbar: [
-      // nested group - max depth is 2
-      /*  {
-        text: "Group",
+      {
+        text: "Introduction",
+        children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/03-manuals.md", "/02_javascript_introduction/04-hello.md", "/02_javascript_introduction/05-tooling.md"],
+      },
+      {
+        text: "Grammar",
         children: [
           {
-            text: "SubGroup",
-            children: ["/group/sub/foo.md", "/group/sub/bar.md"],
+            text: "Code structure",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Syntax Fundamentals",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Code Quality",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Objects",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Data types",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
           },
         ],
       },
-      // control when should the item be active
       {
-        text: "Group 2",
+        text: "Literature",
         children: [
           {
-            text: "Always active",
-            link: "/",
-            // this item will always be active
-            activeMatch: "/",
+            text: "Code structure",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/02_javascript_introduction/02-history.md"],
           },
           {
-            text: "Active on /foo/",
-            link: "/not-foo/",
-            // this item will be active when current route path starts with /foo/
-            // regular expression is supported
-            activeMatch: "^/foo/",
+            text: "Syntax Fundamentals",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Code Quality",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Objects",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+          },
+          {
+            text: "Data types",
+            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
           },
         ],
-      }, */
+      },
     ],
   }),
   pagePatterns: ["**/*.md", "!.vuepress", "!node_modules", "!README.md"],
