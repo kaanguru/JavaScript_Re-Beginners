@@ -1,3 +1,11 @@
+---
+prev:
+  text: What is JavaScript
+  link: ./01-what-is.md 
+next: 
+  text: Manuals
+  link: ./03-manuals.md
+---
 # History
 
 ## Early Days
@@ -32,52 +40,10 @@ entirely by ordinal number (i.e., “5” for “5th edition”)
 
 A new specification version is released every year. Ecmascript proposals are made by Adobe, Apple, Facebook, Google, Microsoft, Mozilla, Opera, Twitter.
 
-Usually before an official stamp of approval, a feature is de facto standardized by probity of this early engine/tooling prototyping.
+Usually, before an official stamp of approval, a feature is de facto standardized by the probity of this early engine/tooling prototyping.
 
 Starting with ES2016, it’s better to think in individual features: once a feature is ready for standardization, you can safely use it . Just check if this feature supported by the JavaScript engines you are targeting. You don’t have to wait until the next ECMAScript release.
 
 :::warning
 I will try to use all new features of ES2022 during Re-Beginners course
 :::
-
-## JavaScript Manual
-
-JavaScript has one main documantation site: [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-::: tip
-Learn to use [MDN javascript Manual](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
-)
-:::
-
-## Hello World
-
-Every computer language education starts by writing a _hello world_ message.
-
-**Ready to try JavaScript?**
-
-Click on **Run Pen** button to see an alert screen.
-
-::: tip
-I will include codepen area for you to run codes directly.
-
-Whenever you see a CodePen block like the one below.
-You **should** click on **EDIT ON CODEPEN** button and try to change code.
-:::
-
-<CodePen
-user="kaanna"
-slug-hash="MWQMoKZ"
-editable="true"
-preview="true"
-title="Hello World in Javascript"
-:default-tab="['js','result']"
-:theme="$isDarkMode? 'dark': 'light'"
-/>
-
-## Tooling
-
-### Developer Console
-
-### CodePen and JsFiddle
-
-### Visual Studio Code
