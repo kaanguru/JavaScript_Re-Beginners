@@ -14,7 +14,7 @@ module.exports = {
     logo: "/img/CK-JS-Re-Beginners.png",
     navbar: [
       {
-        text: "Introduction",
+        text: "Meet Again",
         children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/03-manuals.md", "/02_javascript_introduction/04-hello.md", "/02_javascript_introduction/05-tooling.md"],
       },
       {

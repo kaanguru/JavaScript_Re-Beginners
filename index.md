@@ -9,7 +9,7 @@ actions:
   - text: Get Started
     link: /02_javascript_introduction/01-what-is
     type: primary
-  - text: Introduction
+  - text: Method
     link: /01_method_introduction/
     type: secondary
 features:
@@ -28,14 +28,3 @@ features:
 
 footer: MIT Licensed | Copyright © 2022-present Cem Kaan Kosali
 ---
-# Hello World
-
-<CodePen
-user="kaanna"
-slug-hash="MWQMoKZ"
-editable="true"
-preview="true"
-title="Hello World in Javascript"
-:default-tab="['js','result']"
-:theme="$isDarkMode? 'dark': 'light'"
-/>
