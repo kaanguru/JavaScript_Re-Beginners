@@ -1,8 +1,10 @@
 ---
 home: true
 heroImage: /img/CK-JS-Re-Beginners.png
-heroText: Javascript for Re-Beginners
-tagline: We are starting from scratch
+heroText: Javascript for Re-Beginners 
+title: Javascript for Re-Beginners
+description: e-book of Udemy videos from Cem Kaan full-stack developer for 20 years
+tagline:  Let’s Learn ALL JavaScript, starting from scratch
 actions:
   - text: Get Started
     link: /02_javascript_introduction/01-what-is
