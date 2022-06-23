@@ -1,3 +1,8 @@
+---
+next:
+  text: History
+  link: ./02-history.md 
+---
 # What is Javascript?
 
 ## The programming language of the internet <FontIcon icon="wifi" size="23" />
@@ -16,15 +21,35 @@ Every browser includes a javascript engine.
 
 ## What makes JavaScript unique? <FontIcon icon="fingerprint" size="23" />
 
-* It has Full integration with HTML/CSS
+* It has full integration with HTML/CSS
 * Simple, you can learn a few things and then art to build right after.
 * Supported by all browsers and enabled by default.
 
+:::tip
 JavaScript is built on some good ideas and some bad-looking ideas which as time goes by, appears to be a perfect solution for internet sites.
-JavaScript is a high-level language; which means it's human-readable and understandable.
+:::
 
-It has dynamic typing; which means you are free to change the type of data in your code.
-It's multi-paradigm; which means it can be used in object-oriented and functional programming styles.
+### High-level language
+
+Human-readable and understandable
+
+### Dynamic Typing
+
+You are free to change the type of data in your code,reassign any type to a variable
+
+### Loosely typed
+
+JavaScript does not force the type of an object, allowing more flexibility but denying us type safety and type checking
+
+### It's multi-paradigm
+
+Can be used in object-oriented and functional programming styles)
+
+### Interpreted
+
+JavaScript does not need a compilation stage before a program can run
+
+### Safety
 
 Modern JavaScript is a “safe” programming language. It does not provide low-level access to memory or CPU, because it was initially created for browsers that do not require it.
 JavaScript’s abilities in the browser are limited for the sake of a user’s safety. The aim is to prevent an evil web page from accessing private information or harming the user’s data. JavaScript on a webpage may not read/write unplanned files on the hard disk. It can not copy them or execute programs. It has no direct access to OS functions.
@@ -36,13 +61,20 @@ JavaScript can add new HTML to the page, change the existing content, and modify
 Send requests over the network to remote servers, and download and upload files. Get and set cookies, ask questions to the visitor, and show messages.
 It can store some data on the client-side on browsers' local storage.
 
-Last 10 years, Javascript developers started to use it more than just browser applications. Now it's used for server-side and mobile applications too. Backend developers; prefer it because of its streaming speed. Mobile developers prefer javascript to take advantage of a simple link to cloud data.
+## Last 10 years
+
+Javascript developers started to use it more than just browser applications. Now it's used for server-side and mobile applications too.
+
+Backend developers; prefer it because of its streaming speed.
+
+Mobile developers prefer javascript to take advantage of a simple link to cloud data.
 
 ## What you can build with it?
 
 **Web Applications**: Youtube , Netflix, Spotify, Canva
 
 **Desktop Applications**: WhatsApp Desktop, Skype, Discord, Visual Studio Code, Slack
+
 **Servers**: Express js
 
 **Multi-Platform Mobile apps**: React, NativeScript

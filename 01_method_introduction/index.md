@@ -20,6 +20,8 @@ Did you try to self-teach programming from _free youtube videos_, but you couldn
 
 I want to share my 20 years of expertise to build a strong fundamental background your your software development career.  
 
+## Step-by-step Approuch
+
 I believe understanding how languages works is important. That's why I spend so much time on organizing this course.
 It's intended for programmers who have been working with JavaScript at a beginner level and are now ready for a more sophisticated relationship with the language. JavaScript is a surprisingly powerful but most misunderstood language.
 May be you had some coding lessons previously but feeling like you’ve missed some basics.
