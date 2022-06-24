@@ -1,10 +1,10 @@
 ---
 prev:
   text: What is JavaScript
-  link: ./01-what-is.md 
+  link: ./01_what-is.md 
 next: 
   text: Manuals
-  link: ./03-manuals.md
+  link: ./03_manuals.md
 ---
 # History
 

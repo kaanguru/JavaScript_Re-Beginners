@@ -15,30 +15,46 @@ module.exports = {
     navbar: [
       {
         text: "Meet Again",
-        children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/03-manuals.md", "/02_javascript_introduction/04-hello.md", "/02_javascript_introduction/05-tooling.md"],
+        children: ["/01_meet_again/01_what-is.md", "/01_meet_again/02_history.md", "/01_meet_again/03_manuals.md", "/01_meet_again/04_hello.md", "/01_meet_again/05_tooling.md"],
       },
       {
         text: "Grammar",
         children: [
           {
-            text: "Code structure",
-            children: ["/03_javascript_fundamentals/01-what-is.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md", "/02_javascript_introduction/02-history.md"],
+            text: "Structure",
+            children: ["/02_grammar/01_structure/01_text.md", "/02_grammar/01_structure/02_unicode.md", "/02_grammar/01_structure/03_semicolons.md", "/02_grammar/01_structure/04_use_strict.md"],
           },
           {
-            text: "Syntax Fundamentals",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Types, Values, and Variables",
+            children: ["/02_grammar/02_types_values_variables/01_types.md", "/02_grammar/02_types_values_variables/02_symbols.md", "/02_grammar/02_types_values_variables/03_mutable_immutable.md", "/02_grammar/02_types_values_variables/04_type_conversions.md", "/02_grammar/02_types_values_variables/05_variables.md"],
           },
           {
-            text: "Code Quality",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Expressions and Operators",
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+          },
+          {
+            text: "Types, Values, and Variables",
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+          },
+          {
+            text: "Statements",
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
           },
           {
             text: "Objects",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
           },
           {
-            text: "Data types",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Functions",
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+          },
+          {
+            text: "Classes",
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+          },
+          {
+            text: "Modules",
+            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
           },
         ],
       },
@@ -46,24 +62,28 @@ module.exports = {
         text: "Literature",
         children: [
           {
-            text: "Code structure",
-            children: ["/03_javascript_fundamentals/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Organization",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/01_meet_again/02-history.md"],
           },
           {
-            text: "Syntax Fundamentals",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Async Flow Control",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/01_meet_again/02-history.md"],
           },
           {
-            text: "Code Quality",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Collections",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/01_meet_again/02-history.md"],
           },
           {
-            text: "Objects",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Meta Programming",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/01_meet_again/02-history.md"],
           },
           {
-            text: "Data types",
-            children: ["/02_javascript_introduction/01-what-is.md", "/02_javascript_introduction/02-history.md"],
+            text: "Browser",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/01_meet_again/02-history.md"],
+          },
+          {
+            text: "Node",
+            children: ["/03_javascript_fundamentals/01-what-is.md", "/01_meet_again/02-history.md"],
           },
         ],
       },

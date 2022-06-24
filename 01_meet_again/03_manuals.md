@@ -1,10 +1,10 @@
 ---
 prev:
   text: History
-  link: ./02-history.md 
+  link: ./02_history.md 
 next: 
   text: Hello World
-  link: ./04-hello.md
+  link: ./04_hello.md
 ---
 # JavaScript Manual
 

@@ -1,10 +1,10 @@
 ---
 prev:
   text: Manuals
-  link: ./03-manuals.md 
+  link: ./03_manuals.md 
 next: 
   text: Tooling
-  link: ./05-tooling.md
+  link: ./05_tooling.md
 ---
 
 # Hello World

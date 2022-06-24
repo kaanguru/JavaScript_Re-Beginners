@@ -7,10 +7,10 @@ description: e-book of Udemy videos from Cem Kaan full-stack developer for 20 ye
 tagline:  Let’s Learn ALL JavaScript, starting from scratch
 actions:
   - text: Get Started
-    link: /02_javascript_introduction/01-what-is
+    link: /01_meet_again/01-what-is
     type: primary
   - text: Method
-    link: /01_method_introduction/
+    link: /00_method_introduction/
     type: secondary
 features:
   - title: Back to Basics of Coding

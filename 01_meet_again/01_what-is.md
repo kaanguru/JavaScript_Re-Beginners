@@ -1,9 +1,15 @@
 ---
 next:
   text: History
-  link: ./02-history.md 
+  link: ./02_history.md 
 ---
 # What is Javascript?
+
+Meet with JavaScript again to have a better understanding of language.
+
+::: warning
+Probably you underestimated JavaScript. Here is an introduction to JavaScript
+:::
 
 ## The programming language of the internet <FontIcon icon="wifi" size="23" />
 
@@ -16,7 +22,7 @@ The programs in this language are called scripts. Scripts do not need any prep
 Every browser includes a javascript engine.
 
 1. First The engine reads the script.
-1. Then it converts the script to the machinelanguage.
+1. Then it converts the script to the machine language.
 1. Finally, the machine code runs, very fast.
 
 ## What makes JavaScript unique? <FontIcon icon="fingerprint" size="23" />
@@ -71,10 +77,10 @@ Mobile developers prefer javascript to take advantage of a simple link to cloud 
 
 ## What you can build with it?
 
-**Web Applications**: Youtube , Netflix, Spotify, Canva
+**Web Applications**: Youtube , Netflix, Spotify
 
 **Desktop Applications**: WhatsApp Desktop, Skype, Discord, Visual Studio Code, Slack
 
-**Servers**: Express js
+**Servers**: Every server can be build using Express.js
 
-**Multi-Platform Mobile apps**: React, NativeScript
+**Multi-Platform Mobile apps**: All kind of mobile apps can be build using React, NativeScript
