@@ -2,7 +2,9 @@
 prev:
   text: Hello World
   link: ./04_hello.md 
-
+next:
+  text: Use Strict
+  link: ./06_use_strict.md
 ---
 # Tooling
 

@@ -15,46 +15,42 @@ module.exports = {
     navbar: [
       {
         text: "Meet Again",
-        children: ["/01_meet_again/01_what-is.md", "/01_meet_again/02_history.md", "/01_meet_again/03_manuals.md", "/01_meet_again/04_hello.md", "/01_meet_again/05_tooling.md"],
+        children: ["/01_meet_again/01_what-is.md", "/01_meet_again/02_history.md", "/01_meet_again/03_manuals.md", "/01_meet_again/04_hello.md", "/01_meet_again/05_tooling.md", "/01_meet_again/06_use_strict.md"],
       },
       {
         text: "Grammar",
         children: [
           {
             text: "Structure",
-            children: ["/02_grammar/01_structure/01_text.md", "/02_grammar/01_structure/02_unicode.md", "/02_grammar/01_structure/03_semicolons.md", "/02_grammar/01_structure/04_use_strict.md"],
+            children: ["/02_grammar/01_structure/01_text.md", "/02_grammar/01_structure/02_unicode.md", "/02_grammar/01_structure/03_semicolons.md"],
           },
           {
             text: "Types, Values, and Variables",
-            children: ["/02_grammar/02_types_values_variables/01_types.md", "/02_grammar/02_types_values_variables/02_symbols.md", "/02_grammar/02_types_values_variables/03_mutable_immutable.md", "/02_grammar/02_types_values_variables/04_type_conversions.md", "/02_grammar/02_types_values_variables/05_variables.md"],
+            children: ["/02_grammar/02_types_values_variables/01_types_symbols.md", "/02_grammar/02_types_values_variables/02_mutable_immutable.md", "/02_grammar/02_types_values_variables/03_type_conversions_variables.md"],
           },
           {
             text: "Expressions and Operators",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
-          },
-          {
-            text: "Types, Values, and Variables",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+            children: ["/02_grammar/03_expressions_operators/01_expressions.md", "/02_grammar/03_expressions_operators/02_operators.md"],
           },
           {
             text: "Statements",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+            children: ["/01_meet_again/01-what-is.md"],
           },
           {
             text: "Objects",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+            children: ["/01_meet_again/01-what-is.md"],
           },
           {
             text: "Functions",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+            children: ["/01_meet_again/01-what-is.md"],
           },
           {
             text: "Classes",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+            children: ["/01_meet_again/01-what-is.md"],
           },
           {
             text: "Modules",
-            children: ["/01_meet_again/01-what-is.md", "/01_meet_again/02-history.md"],
+            children: ["/01_meet_again/01-what-is.md"],
           },
         ],
       },
