@@ -30,7 +30,7 @@ module.exports = {
           },
           {
             text: "Expressions and Operators",
-            children: ["/02_grammar/03_expressions_operators/01_expressions.md", "/02_grammar/03_expressions_operators/02_operators.md"],
+            children: ["/02_grammar/03_expressions_operators/01_expressions.md", "/02_grammar/03_expressions_operators/02_access_expression.md", "/02_grammar/03_expressions_operators/03_operators.md"],
           },
           {
             text: "Statements",
