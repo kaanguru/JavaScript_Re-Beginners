@@ -74,6 +74,12 @@ module.exports = {
             ],
           },
           {
+            text: "Poetry",
+            children: [
+              // "clean code", "TDP"
+            ],
+          },
+          {
             text: "Object Oriented Programming",
             children: [],
           },

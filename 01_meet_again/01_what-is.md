@@ -8,7 +8,7 @@ next:
 Meet with JavaScript again to have a better understanding of language.
 
 ::: warning
-Probably you underestimated JavaScript. Here is an introduction to JavaScript
+Probably you underestimated JavaScript. Here is an re-introduction to JavaScript.
 :::
 
 ## The programming language of the internet <FontIcon icon="wifi" size="23" />
