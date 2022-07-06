@@ -105,6 +105,10 @@ module.exports = {
             text: "Deno",
             children: [],
           },
+          {
+            text: "Web3",
+            children: [],
+          },
         ],
       },
     ],
