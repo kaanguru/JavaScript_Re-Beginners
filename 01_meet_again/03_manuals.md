@@ -10,15 +10,35 @@ next:
 
 **JavaScript has one main documentation site**: [MDN JavaScript DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Where to find JavaScript information?
+## Where to find information?
 
-JavaScript documentation of core language features (pure [ECMAScript](https://tc39.es/ecma262/), for the most part)
+JavaScript documentation of core language features (pure [ECMAScript](https://tc39.es/ecma262/), for the most part) but ...
 
 ::: tip
 Re-Beginners Method follows The [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) to get more details on individual objects and language constructs.
 
 You need to learn locations of headlines because you'll refer to these pages often.
 
+:::
+
+## The DOM vs core JavaScript
+
+Separation of The DOM and core JavaScript is important to find information you are looking for easily.
+
+The umbrella term "JavaScript" as understood in a web browser context contains several very different elements. One of them is the core language (ECMAScript), another is the collection of the Web APIs, including the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) (Document Object Model).
+
+ECMAScript does not provide rule sets for APIs such as ;
+
+- DOM APIs
+
+    The Document Object Model (DOM) is a cross-platform, language-independent convention for representing and interacting with objects in HTML
+- WebSockets allows low-level bidirectional communication.
+- Canvas 2D Context is a drawing API for `<canvas>`.
+
+[Full list of Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+:::tip
+If properties you are looking for is using _document size_, _type_ , _browsers environment_, _browser events_ , _forms_ , _Network requests_
 :::
 
 ## Structure of the MDN reference
@@ -47,17 +67,15 @@ The **global object** itself can be accessed using the **this** operator in the 
 
 Other objects in the global scope are either [created by the user script](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#creating_new_objects) or provided by the host application. The host objects available in browser contexts are documented in the [API reference](https://developer.mozilla.org/en-US/docs/Web/API).
 
-For more information about the distinction between the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) and core [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), see [JavaScript technologies overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview).
-
 - [Value properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#value_properties)
   
-  These global properties return a simple value. They have no properties or methods.
+  return a simple value. They have no properties or methods.
 
   `Infinity`  `NaN`  `undefined`  `globalThis`
 
 - [Function properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#function_properties)
   
-  These global functions—functions which are called globally, rather than on an object—directly return their results to the caller.
+  These global functions which are called globally, rather than on an object—directly return their results to the caller.
 
   `eval()`  `isFinite()`   `isNaN()`  `parseFloat()`  `parseInt()`   `encodeURI()`   `encodeURIComponent()`   `decodeURI()` `decodeURIComponent()`
 
