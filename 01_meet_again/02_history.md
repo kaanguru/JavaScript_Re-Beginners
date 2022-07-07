@@ -1,7 +1,7 @@
 ---
 prev:
   text: What is JavaScript
-  link: ./01_what-is.md 
+  link: ./01_what_is.md 
 next: 
   text: Manuals
   link: ./03_manuals.md

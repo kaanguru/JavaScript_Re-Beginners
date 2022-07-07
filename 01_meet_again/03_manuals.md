@@ -145,14 +145,14 @@ JavaScript applications consist of statements with an appropriate syntax. A sing
 
 - [Control flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#control_flow)
 
-  `Block`, `break`, `continue`, `Empty`, `if...else`, `switch` , `throw`, `try...catch`
+  `Block` `break`  `continue`  `Empty` `if...else`  `switch`   `throw` `try...catch`
 - [Declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#declarations)
 
-  `var`, `let`, `const`
+  `var` `let` `const`
 
 - [Functions and classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#functions_and_classes)
 
-  `function`, `function*`
+  `function` `function*`
 - [Iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
 
   `do...while` `for` `for...in` `for...of` `for await...of` `while`
@@ -182,7 +182,7 @@ This chapter documents all the JavaScript language operators, expressions and ke
 - [Bitwise shift operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#bitwise_shift_operators)
   - Operations to shift all bits of the operand.
 - [Binary bitwise operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_bitwise_operators)
-- Bitwise operators treat their operands as a set of 32 bits (zeros and ones) and return standard JavaScript numerical values.
+  - Bitwise operators treat their operands as a set of 32 bits (zeros and ones) and return standard JavaScript numerical values.
 - [Binary logical operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_logical_operators)
   - Logical operators are typically used with boolean (logical) values, and when they are, they return a boolean value.
 - [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#conditional_ternary_operator)

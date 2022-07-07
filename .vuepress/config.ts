@@ -15,7 +15,7 @@ module.exports = {
     navbar: [
       {
         text: "Meet Again",
-        children: ["/01_meet_again/01_what-is.md", "/01_meet_again/02_history.md", "/01_meet_again/03_manuals.md", "/01_meet_again/04_hello.md", "/01_meet_again/05_tooling.md", "/01_meet_again/06_use_strict.md"],
+        children: ["/01_meet_again/01_what_is.md", "/01_meet_again/02_history.md", "/01_meet_again/03_manuals.md", "/01_meet_again/04_hello.md", "/01_meet_again/05_tooling.md", "/01_meet_again/06_use_strict.md"],
       },
       {
         text: "Grammar",
