@@ -45,5 +45,9 @@ Usually, before an official stamp of approval, a feature is de facto standardize
 Starting with ES2016, it’s better to think in individual features: once a feature is ready for standardization, you can safely use it . Just check if this feature supported by the JavaScript engines you are targeting. You don’t have to wait until the next ECMAScript release.
 
 :::warning
-I will try to use all new features of ES2022 during Re-Beginners course
+I will try to use all new features of ES.Next during Re-Beginners course
+:::
+
+:::tip
+ES.Next is a dynamic name that refers to whatever the next version is at the time of writing. ES.Next features are more correctly called proposals, because, by definition, the specification has not been finalized yet.
 :::

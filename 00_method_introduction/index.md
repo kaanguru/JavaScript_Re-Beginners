@@ -14,9 +14,19 @@ But last 5 years, I have noticed there were strange technological developments i
 
 So I decided to start over from beginning :man_technologist: I've **re-learned** everything about javascript. I prepared this course to share my experience in this re-learning process. :world_map: <FontIcon icon="route" size="23" color="Crimson"/>
 
-## For Whom Was This Course Is Prepared?
+## What you should already know
+
+This guide assumes you have the following basic background:
+
+- A general understanding of the Internet and the World Wide Web ([WWW](https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web)).
+- Good working knowledge of HyperText Markup Language ([HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)).
+- Some programming experience. If you are new to programming, try one of the tutorials linked on the mdn main page about [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+## For Whom Was This Course Prepared?
 
 ### 70 % of developers are second-language speakers of English
+
+If you think you know JavaScript, this course for you.
 
 Check if this course for you before you start climbing  :mount_fuji:
 

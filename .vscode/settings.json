@@ -7,5 +7,6 @@
     "package.json": true,
     "README.md": true,
     "yarn.lock": true
-  }
+  },
+  "cSpell.words": ["Kosali", "Udemy"]
 }

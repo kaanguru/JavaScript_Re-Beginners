@@ -106,6 +106,14 @@ module.exports = {
             children: [],
           },
           {
+            text: "Vue",
+            children: [],
+          },
+          {
+            text: "Svelte",
+            children: [],
+          },
+          {
             text: "Web3",
             children: [],
           },
