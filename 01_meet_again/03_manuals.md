@@ -8,9 +8,7 @@ next:
 ---
 # JavaScript Manual
 
-**JavaScript has one main documentation site**:
-
-[MDN JavaScript DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**JavaScript has one main documentation site**: [MDN JavaScript DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Where to find JavaScript information?
 
@@ -23,9 +21,7 @@ You need to learn locations of headlines because you'll refer to these pages oft
 
 :::
 
-## Structure of the reference
-
-In the MDN JavaScript reference you can find 7 chapters:
+## Structure of the MDN reference
 
 ::: warning
 **KITCHEN SINK OF DOCS**
@@ -36,6 +32,8 @@ This page is a single table of documents of mdn javascript documentation.
 ::: tip
 You better read all this page couple of times! By this way you'll know which search result to choose while searching in documents.
 :::
+
+The MDN JavaScript reference has **7 chapters**
 
 ### Standard built-in objects
 
