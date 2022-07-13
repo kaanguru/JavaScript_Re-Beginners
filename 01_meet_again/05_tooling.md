@@ -4,7 +4,7 @@ prev:
   link: ./04_hello.md 
 next:
   text: Use Strict
-  link: ./06_use_strict.md
+  link: ./06_use-strict.md
 ---
 # Tooling
 
