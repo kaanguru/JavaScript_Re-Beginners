@@ -90,9 +90,10 @@ module.exports = {
           {
             text: "Browser",
             children: [
-              // "Document", "Events", "Interfaces", "Memory", "Network", "Animation", "Regex"
+              // "Document", "Events", "Interfaces", "Memory", "Network", "Animation", "Regex", "Vite"
             ],
           },
+
           {
             text: "Node",
             children: [],

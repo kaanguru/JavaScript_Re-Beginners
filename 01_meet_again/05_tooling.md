@@ -40,13 +40,13 @@ We will learn all JavaScript Fundamentals using Visual Studio Code but I will sh
 
 ![node](./img/nodejs.png)
 
-Node.js is the cross-platform environment that lets developers write command line tools and server-side scripts outside of a browser.
+ [Node.js](https://nodejs.dev/) is the cross-platform environment that lets developers write command line tools and server-side scripts outside of a browser.
 
 ## Visual Studio Code
 
 ![code](./img/visualstudiocodelogo.png)
 
-As a professional developer, you will use an IDE (Integrated Development Environment) and most certainly Visual Studio Code
+As a professional developer, you will use an IDE (Integrated Development Environment) and most certainly [Visual Studio Code](https://code.visualstudio.com/)
 
 * Syntax Coloring
 * Error and Warning Marks
@@ -54,10 +54,14 @@ As a professional developer, you will use an IDE (Integrated Development Environ
 
 **Git Support:** Resources can be pulled from Git Hub Repo online and vice-versa; saving can be done too. Resource pulling also means cloning the code which is made available on the internet. This code can later be changed and saved.
 
-**Terminal Support:** Many of the times, the user needs to start from the root of the directory to start with a particular action, in-built terminal or console provides user support to not to switch in-between two screens for the same.
+**Terminal Support:** Most of the times, the user needs to start from the root of the directory to start with a particular action, in-built terminal or console provides user support to not to switch in-between two screens for the same.
 
 **Intelli-Sense:** It can detect if any snippet of code is left incomplete. Also, common variable syntaxes and variable declarations are made automatically. Ex: If a certain variable is being used in the program and the user has forgotten to declare, intelli-sense will declare it for the user.
 
 ## ESLint
 
-We will find and fix problems in your JavaScript code using ESLint
+We will find and fix problems in your JavaScript code using  [ESLint](https://eslint.org/)
+
+## Vite
+
+We will use [Vite](https://vitejs.dev/) for Web Frontend Tooling

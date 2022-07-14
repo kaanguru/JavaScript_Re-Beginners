@@ -9,7 +9,7 @@ next:
 
 # Hello World
 
-Every computer language education starts by writing a _hello world_ message.
+Every computer programing language education starts by writing a _hello world_ message.
 
 **Ready to try JavaScript?**
 
