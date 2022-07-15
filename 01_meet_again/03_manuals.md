@@ -12,10 +12,10 @@ next:
 
 ## Where to find information?
 
-JavaScript documentation of core language features (pure [ECMAScript](https://tc39.es/ecma262/), for the most part) but ...
+The documentation of core language features are in Ecma International's web site (pure [ECMAScript](https://tc39.es/ecma262/)) but it's hard to use as a reference.
 
 ::: tip
-Re-Beginners Method follows The [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) to get more details on individual objects and language constructs.
+Re-Beginners Method follows The [JavaScript reference of mozilla developers Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) to get more details on individual objects and language constructs.
 
 You need to learn locations of headlines because you'll refer to these pages often.
 

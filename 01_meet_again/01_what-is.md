@@ -28,7 +28,7 @@ Every browser includes a javascript engine.
 ## What makes JavaScript unique? <FontIcon icon="fingerprint" size="23" />
 
 * It has full integration with HTML/CSS
-* Simple, you can learn a few things and then art to build right after.
+* Simple, you can learn a few things and then start to build right after.
 * Supported by all browsers and enabled by default.
 
 :::tip
@@ -75,7 +75,7 @@ Backend developers; prefer it because of its streaming speed.
 
 Mobile developers prefer javascript to take advantage of a simple link to cloud data.
 
-## What you can build with it?
+## What can you build with it?
 
 **Web Applications**: Youtube , Netflix, Spotify
 
