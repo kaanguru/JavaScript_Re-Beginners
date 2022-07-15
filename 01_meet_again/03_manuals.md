@@ -12,6 +12,8 @@ next:
 
 ## Where to find information?
 
+You will need to access basic information about syntax instead of memorizing.
+
 The documentation of core language features are in Ecma International's web site (pure [ECMAScript](https://tc39.es/ecma262/)) but it's hard to use as a reference.
 
 ::: tip
@@ -38,7 +40,7 @@ ECMAScript does not provide rule sets for APIs such as ;
 [Full list of Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 :::tip
-If properties you are looking for is using _document size_, _type_ , _browsers environment_, _browser events_ , _forms_ , _Network requests_
+If properties you are looking for is using _document size_, _type_ , _browsers environment_, _browser events_ , _forms_ , _Network requests_, do not search it in core language features. The information you are looking for is most likely in Web APIs.
 :::
 
 ## Structure of the MDN reference
@@ -195,7 +197,7 @@ This chapter documents all the JavaScript language operators, expressions and ke
 - [Comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#comma_operator)
   - `,`    The comma operator allows multiple expressions to be evaluated in a single statement and returns the result of the last expression.
 
-### Functions
+### Functions (V erbs)
 
 Generally speaking, a function is a "subprogram" that can be _called_ by code
 external (or internal in the case of recursion) to the function. Like the program
