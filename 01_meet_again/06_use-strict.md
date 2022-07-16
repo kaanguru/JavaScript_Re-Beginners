@@ -8,5 +8,5 @@ You do not need to add before all your scripts but if you want to **Burn the bri
 Like all professional developers, we will develop using JavaScript compilers like babel or  [typescript](https://www.typescriptlang.org/tsconfig#alwaysStrict) so don't worry about  _"use strict"_ and browser-compatible JavaScript. Compilers deal with it automatically.
 
 ::: tip
-Since using  _"use strict"_ or _'use strict'_ rarely makes difference. I won't be using it.
+Since using  _"use strict"_ or _'use strict'_ rarely makes difference. I won't be using it in our course.
 :::
