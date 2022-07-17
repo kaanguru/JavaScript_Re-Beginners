@@ -8,9 +8,18 @@ next:
 ---
 # Tooling
 
-## Developer Console
+We will learn and use following professional developer tools through the course.
 
+## Firefox and Chrome DevTools
+
+The most significant developer tools are web browsers and their developer tools.  Firefox and  Chrome DevTools developer consoles are accessed by pressing the F12 key. The default tab is console and other developer tools like inspector and debugger are on other tabs. Using the browser console is an interactive way of learning. We can directly type our code and run it inside the browser.
+
+### Web Console
+
+![console](https://firefox-source-docs.mozilla.org/_images/landingpage_console.png)
 In the browser, users don’t see errors by default. So, if something goes wrong in the script, we won’t see what’s broken and can’t fix it.
+
+<https://firefox-source-docs.mozilla.org/devtools-user/>
 
 ::: tip
 **Errors are our friends**
@@ -28,8 +37,10 @@ Press F12 The developer tools will open on the Console tab by default.
 
 [CodePen](https://codepen.io/features/) and [JsFiddle](https://jsfiddle.net/) are web based development environments.
 
-They allow us to write code in the browser, and see the results of it as you build.
-They are online code editors for front-end developers learning to code.
+Web-based development environments are great tools to try out our ideas and start your projects without a hassle.
+They allow us to write code in the browser and see the results of it as we build. They are online code editors for front-end developers learning to code.
+
+All source codes of our course are published in codepen. You can edit and try your developments.
 
 ::: tip
 We will use pure JavaScript which is sometimes called Vanilla JavaScript.
@@ -58,10 +69,14 @@ As a professional developer, you will use an IDE (Integrated Development Environ
 
 **Intelli-Sense:** It can detect if any snippet of code is left incomplete. Also, common variable syntaxes and variable declarations are made automatically. Ex: If a certain variable is being used in the program and the user has forgotten to declare, intelli-sense will declare it for the user.
 
-## ESLint
+## Linters
 
 We will find and fix problems in your JavaScript code using  [ESLint](https://eslint.org/)
 
+We will dive deep on Code Quality in **Literature** section of Javascript for Re-Beginners course.
+
+**For now check out:** [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
+
 ## Vite
 
-We will use [Vite](https://vitejs.dev/) for Web Frontend Tooling
+While targeting browser, we will use [Vite](https://vitejs.dev/) for Web Frontend Tooling
