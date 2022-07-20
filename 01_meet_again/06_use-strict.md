@@ -1,7 +1,6 @@
 # "use strict"
 
-Adding _"use strict"_ before your code makes your code modern javascript.
-JavaScript engines are cleaver enough to know you are using new added features , and turns on use _"strict mode"_ automatically.
+Adding `"use strict"` before your code makes your code modern javascript. JavaScript engines are clever enough to know you are using newly added features and turn on use `"strict mode"` automatically.
 
 You do not need to add before all your scripts but if you want to **Burn the bridges between today and ECMAScript 5 (ES5)**, it's a good idea.
 
