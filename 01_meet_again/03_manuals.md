@@ -145,6 +145,16 @@ Other objects in the global scope are either [created by the user script](https:
 
 JavaScript applications consist of statements with an appropriate syntax. A single statement may span multiple lines. Multiple statements may occur on a single line if each statement is separated by a semicolon. This isn't a keyword, but a group of keywords.
 
+<CodePen
+user="kaanna"
+slug-hash="KKRMPVb"
+editable="true"
+preview="false"
+title="Multiple statements in single line"
+:default-tab="['js']"
+:theme="$isDarkMode? 'dark': 'light'"
+/>
+
 - [Control flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#control_flow)
 
   `Block` `break`  `continue`  `Empty` `if...else`  `switch`   `throw` `try...catch`
@@ -197,7 +207,7 @@ This chapter documents all the JavaScript language operators, expressions and ke
 - [Comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#comma_operator)
   - `,`    The comma operator allows multiple expressions to be evaluated in a single statement and returns the result of the last expression.
 
-### Functions (V erbs)
+### Functions (Verbs)
 
 Generally speaking, a function is a "subprogram" that can be _called_ by code
 external (or internal in the case of recursion) to the function. Like the program
